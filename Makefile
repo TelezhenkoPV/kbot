@@ -1,9 +1,11 @@
 VERSION=$(shell git describe --tags --abbrev=0)-$(shell git rev-parse --short HEAD)
 TARGETOS=linux
 
+linux: lint test build clean
+
 format: ; gofmt -s -w ./
 
-lint: ; golint
+lint: ; golangci-lint run
 
 test: ; go test -v
 
