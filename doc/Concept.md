@@ -19,7 +19,7 @@ run `alias k=kubectl`
 3. Verify cluster is running `k cluster-info`
 4. Look at the cluster nodes `k get nodes`
 5. Delete cluster `minikube delete`
-6Look at the cluster nodes `k get nodes`
+6. Look at the cluster nodes `k get nodes`
 
 ---
 
@@ -42,3 +42,5 @@ run `alias k=kubectl`
 4. Look at the cluster nodes `k get nodes`
 5. Delete cluster `k3d cluster delete clusterName`
 6. Look at the cluster nodes `k get nodes`
+
+[![asciicast](https://asciinema.org/a/584044.svg)](https://asciinema.org/a/584044)
