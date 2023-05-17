@@ -1,9 +1,9 @@
 ## Argo demo
-[demo_argo.mov](..%2F..%2F..%2FDesktop%2Fdemo_argo.mov)
+[demo_argo.mov](../assets/video/demo_argo.mov)
 
 ## App demo
 
-[demo_app.mov](..%2F..%2F..%2FDesktop%2Fdemo_app.mov)
+[demo_app.mov](../assets/video/demo_app.mov)
 
 
 ### terminal 1
